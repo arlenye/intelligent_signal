@@ -1,2 +1,0 @@
-https://github.com/arlenye/intelligent_signal.git
-这是一个测试文件
